@@ -6,4 +6,5 @@ array_numbers = [2, 3, 6, 7, 8, 10, 11, 15, 16, 17, 20, 21, 23,
                  79, 80, 85, 87, 89, 90, 92, 93, 94, 96, 98, 100]
 middle = len(array_numbers) / 2
 while True:
-	pass
+	if middle > len(array_numbers):
+		pass
